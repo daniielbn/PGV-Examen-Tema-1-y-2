@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="PGVExamenDBNEj1:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/PGVExamenDBNEj1_jar</output-path>
+    <root id="archive" name="PGVExamenDBN.jar">
+      <element id="module-output" name="PGVExamenDBN" />
+    </root>
+  </artifact>
+</component>

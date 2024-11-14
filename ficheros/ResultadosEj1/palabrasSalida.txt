@@ -1,0 +1,7 @@
+Introduce una palabra para comenzar (Escribir 'fin' para finalizar): 
+La palabra HOLA es corta.
+La palabra esto es corta.
+La palabra soy es corta.
+La palabra DANIEL no es corta.
+La palabra Programacion no es corta.
+Se han encontrado un total de 3 palabras cortas.
